@@ -1,0 +1,71 @@
+.nowrin{
+    color: blue;
+   
+    width: 500px;
+    font-size: larger;
+    padding: 10px;
+    margin: 20px;
+
+
+
+}
+.sanzida{
+    color: red;
+}
+.nahid{
+    background-image: 100px;
+    margin: 20px;
+    width: 500px;
+}
+.x{
+    color: purple;
+    font-size: larger;
+    font-weight: 500;
+}
+.y{
+    color: rgb(86, 28, 161);
+   size: 300px;
+}
+.z{
+    color: orangered;
+    font-size: larger;
+    padding: 20px;
+    width: 500px;
+}
+.b{
+    color: green;
+font-size: bolder;
+}
+.w{
+    color: blueviolet;
+    padding: 10px;
+    width: 600px;
+    border: solid;
+}
+.a{
+image-resolution: 500px;
+border: dotted;
+}
+#s{
+    color: tomato;
+    size: bolder;
+}
+.f{
+    color: aqua;
+    size: bold;
+   
+
+}
+.k{
+    color: magenta;
+}
+.n{
+    color: crimson;
+    width: 300px;
+    font-style: italic;
+    margin: 20px;
+    padding-left: 20px;
+}
+.g{
+    color: blueviolet;
+}
